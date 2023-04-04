@@ -93,3 +93,13 @@ A management application is a software program designed to help managers and oth
 <br></br>
 -----------------------------
 
+<div align="center">
+    <img src="https://github.com/AmjadAlhassnai/AmjadAlhassnai/blob/f8a6989f1e904b012a5a150db0b72f0a677ec233/ChatApp.PNG" align="center" height="350" width="800" />
+</div>
+
+
+### Description
+A chat app (chatter) is a software application that allows users to communicate with each other through text-based messages in real-time. Chat apps are designed to enable individuals or groups to have conversations, share information, and collaborate with each other.
+
+<br></br>
+-----------------------------
