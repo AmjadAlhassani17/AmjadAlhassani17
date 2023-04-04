@@ -82,3 +82,14 @@ Features commonly found in store apps include product listings with images and d
 <br></br>
 -----------------------------
 
+<div align="center">
+    <img src="https://github.com/AmjadAlhassnai/AmjadAlhassnai/blob/b65a1b306c9b12b865d9750c955b1355f3f7611e/LogIn%20Page.jpg" align="center" height="400" width="600" />
+</div>
+
+
+### Description
+A management application is a software program designed to help managers and other professionals organize, track, and analyze data related to their work. It typically includes features such as project management, task tracking, time tracking, team collaboration, data analysis, and reporting.
+
+<br></br>
+-----------------------------
+
