@@ -103,3 +103,15 @@ A chat app (chatter) is a software application that allows users to communicate 
 
 <br></br>
 -----------------------------
+
+
+<div align="center">
+    <img src="https://github.com/AmjadAlhassnai/AmjadAlhassnai/blob/ef8feb3241345b2169a39f9fc136a8d183a0aeb1/ChatGPT%20AI.PNG" align="center" height="350" width="800" />
+</div>
+
+
+### Description
+ChatGPT AI is an AI-powered chatbot designed to engage in human-like conversations with users. It is based on the state-of-the-art GPT-3.5 architecture, which allows it to understand and generate natural language responses that are similar to those of a human.
+
+<br></br>
+-----------------------------
