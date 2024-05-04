@@ -39,15 +39,9 @@ I'm an experienced mobile developer(Flutter) who enjoys taking up challenges and
             <img src="https://skillicons.dev/icons?i=js,html,css,wasm,vite,vue" />
           </a>
         <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=ligth" />
+            <img src="https://skillicons.dev/icons?i=java,kotlin,nodejs,graphql,firebase,figma&theme=ligth" />
           </a>
-        <a href="https://www.electronjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="50" /></a>
 
-        <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
-        <a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>
-        <a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" /></a>
-        <a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" /></a>
-        <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>        <a href="https://developer.apple.com/swift/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/swift-original-wordmark.svg" alt="Swift" height="50" /></a>
 </div>
     
 </td><td valign="top" width="50%">
