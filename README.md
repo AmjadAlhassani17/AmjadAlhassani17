@@ -3,8 +3,8 @@
 </div>
 
 
-### <div align="center">I'm Amjad Alhassani, a backend developer specializing
-                                in PHP Laravel and NestJS. 👨‍💻 working since 2020 🚀</div>
+### <div align="center">I'm Amjad Alhassani, a backend developer specializing</div>
+### <div align="center">in PHP Laravel and NestJS. 👨‍💻 working since 2020 🚀</div>
 
 
 - 🔭 Currently working on building robust and efficient web applications.
