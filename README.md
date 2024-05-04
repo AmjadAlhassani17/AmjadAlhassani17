@@ -3,25 +3,22 @@
 </div>
 
 
-### <div align="center">I'm Amjad Alhassani, a full-time Flutter developer 👨‍💻 working since 2020 🚀</div>
+### <div align="center">I'm Amjad Alhassani, a backend developer specializing in PHP Laravel and NestJS. 👨‍💻 working since 2020 🚀</div>
 
 
-- 🔭 I’m currently working on Build Future .
+- 🔭 Currently working on building robust and efficient web applications.
 
 
-- 🤔 I’m looking for help with any thing about mobile developer (Flutter) .
+- 🤔 Open to discussions and collaboration on anything related to backend development.
 
 
-- 🚀 CI/CD to Automate Building and Publishing App to Stores .
+- 🚀 Experienced in CI/CD workflows for automating app deployment to production.
 
 
-- 📱 Multi Threads App (Excellent Speed & Stability from the Lowest device to the Good ones) .
+- 🌱 Continuously learning and exploring deep learning and computer vision.
 
 
-- 🌱 I’m currently learning Deep learning (Computer Vision) .
-
-
-- 💬 Ask me about anything related to Mobile Development .
+- 💬 Feel free to reach out for discussions on PHP Laravel, NestJS, or backend development topics.
 
 
 I'm an experienced mobile developer(Flutter) who enjoys taking up challenges and loves to code. Apart from being professional, and very keen on quality design and deadlines, I work well under high pressure and strive to provide a premium service and job satisfaction to my clients.
